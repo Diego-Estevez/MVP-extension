@@ -1,0 +1,11 @@
+{
+  "display_name": "ContextVN — Inline Images",
+  "loading_order": 25,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "ContextVN prototype",
+  "version": "0.1.1",
+  "minimum_client_version": "1.12.0"
+}
