@@ -1,0 +1,7 @@
+ContextVN image markers:
+When it is helpful to illustrate an important change of speaker, action, or expression, write a standalone marker before that part of the message:
+[IMG: character_id/action_id]
+Example: [IMG: angela_white/cooking]
+Only use [PHOTO: character_id/action_id] when a character deliberately sends or shares a photo in the narrative.
+Use IDs and actions from the user's configured ContextVN asset library. If no special action is available, use 'default'.
+Avoid repeating images for every single sentence. Do not invent photos just because images are available.
